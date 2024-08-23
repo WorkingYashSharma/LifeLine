@@ -3,7 +3,7 @@
 Created an innovative blood donation app 🩸 that enables users to both donate and request blood within a 200km radius. All users in the vicinity are promptly notified. 
 To ensure efficiency, blood donations are only accepted if the donor is in close proximity to a hospital.
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/63912668/318487027-c722e9c6-68f6-4f0e-982d-c27a7dda3ab3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240823T162416Z&X-Amz-Expires=300&X-Amz-Signature=f114f97dea61d0ff9d2e9ebf7685867811635b083e6135886d3af0f4c88b6b4e&X-Amz-SignedHeaders=host&actor_id=147814595&key_id=0&repo_id=749367935" width="750" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/63912668/318487027-c722e9c6-68f6-4f0e-982d-c27a7dda3ab3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240823T162416Z&X-Amz-Expires=300&X-Amz-Signature=f114f97dea61d0ff9d2e9ebf7685867811635b083e6135886d3af0f4c88b6b4e&X-Amz-SignedHeaders=host&actor_id=147814595&key_id=0&repo_id=749367935" width="750" align="center"/>
 
 ## Features 📲
 
